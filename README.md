@@ -25,3 +25,30 @@ On this project i worked :
 #### Trailer
 *Click on the image*  
 [![](https://img.youtube.com/vi/BZAh1M4cmQY/0.jpg)](https://www.youtube.com/watch?v=BZAh1M4cmQY)
+
+
+## WhichCraft
+
+WhichCraft is a top down action game.  
+The player can combine two alchemical elements for create a spell and defeat the ennemies.  
+And the player has a grimoire which lists his dicovered spell, status and enemies.
+
+This project was realize with a team of 10 people
+  - 4 Graphists
+  - 6 Programmers
+
+On this project i worked :
+  - In first time on the spell structure and effect
+  - In second time on the Grimoire
+  - In last time on some feedback and fixing bug
+
+#### Screen
+![](WhichCraft/0.png)
+![](WhichCraft/1.png)
+![](WhichCraft/2.png)
+![](WhichCraft/3.png)
+![](WhichCraft/4.png)
+
+#### Trailer
+*Click on the image*  
+[![](https://img.youtube.com/vi/FjbEneLxB-M/0.jpg)](https://www.youtube.com/watch?v=FjbEneLxB-M)
