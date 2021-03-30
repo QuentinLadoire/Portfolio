@@ -58,7 +58,7 @@ On this project i worked :
 A oriented procedural map generation like minecraft.  
 Implemented Perlin Noise 2D and 3D.  
 
-#### Trailer
+#### Video Presentation
 *Click on the image*  
 [![](https://img.youtube.com/vi/ZCAR6i94rE0/0.jpg)](https://www.youtube.com/watch?v=ZCAR6i94rE0)
 
@@ -72,8 +72,17 @@ A CutTheRope like realize with Unity.
 ![](https://github.com/QuentinLadoire/CutTheRope/blob/master/Screen/Level1.png)
 ![](https://github.com/QuentinLadoire/CutTheRope/blob/master/Screen/Level14.PNG)
 
+## Learn OpenGL
+#### [GitHub Repository](https://github.com/QuentinLadoire/LearnOpenGL)
+First project for discover the graphics programming with OpenGL.
+
+#### Video Presentation
+*Click on the image*  
+[![](https://img.youtube.com/vi/1vElwjDgs-8/0.jpg)](https://www.youtube.com/watch?v=1vElwjDgs-8)
+
 ## Spring-Mass System
 #### [GitHub Repository](https://github.com/QuentinLadoire/MasseRessort)
+A spring-mass system implemented in C++ with the SFML.
 
 #### Screen
 ![](https://github.com/QuentinLadoire/MasseRessort/blob/master/Screen/0.PNG)
