@@ -27,9 +27,14 @@
 
 # Personal Project
 
+## JourneyToTheFarm
+#### [GitHub Repository](https://github.com/QuentinLadoire/JourneyToTheFarm)
+#### Trailer
+[![](https://img.youtube.com/vi/84DG06C5vnk/0.jpg)](https://www.youtube.com/watch?v=84DG06C5vnk)
+
 ## Minecraft Procedural Map
 #### [GitHub Repository](https://github.com/QuentinLadoire/MinecraftProceduralMap)
-#### Video Presentation
+#### Trailer
 *Click on the image*  
 [![](https://img.youtube.com/vi/ZCAR6i94rE0/0.jpg)](https://www.youtube.com/watch?v=ZCAR6i94rE0)
 
