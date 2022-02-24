@@ -1,6 +1,11 @@
-# Student Project
+# Projets étudiant
 
 ## Inari
+- Type : Puzzle/Plateformer 3D
+- Team : 4 Graphists - 5 Programmers
+- Role : Polyvalent, Puzzle mechanics, Input controller, User Interface
+- Time : 8 Weeks
+
 #### Screen
 ![](Inari/0.PNG)
 ![](Inari/1.PNG)
@@ -13,6 +18,11 @@
 
 
 ## WhichCraft
+- Type : 3D Action
+- Team : 4 Graphists - 5 Programmers
+- Role : Modular spell system, In-game encyclopedia, Editor tooling
+- Time : 8 Weeks which 6 remotely
+
 #### Screen
 ![](WhichCraft/0.png)
 ![](WhichCraft/1.png)
