@@ -1,5 +1,4 @@
-# Projets étudiant
-
+# Student Project
 ## Inari
 - Type : Puzzle/Plateformer 3D
 - Team : 4 Graphists - 5 Programmers
@@ -12,8 +11,7 @@
 ![](Inari/2.PNG)
 ![](Inari/3.PNG)
 
-#### Trailer
-*Click on the image*  
+#### Video (Click on)  
 [![](https://img.youtube.com/vi/BZAh1M4cmQY/0.jpg)](https://www.youtube.com/watch?v=BZAh1M4cmQY)
 
 
@@ -30,22 +28,19 @@
 ![](WhichCraft/3.png)
 ![](WhichCraft/4.png)
 
-#### Trailer
-*Click on the image*  
+#### Video (Click on)  
 [![](https://img.youtube.com/vi/FjbEneLxB-M/0.jpg)](https://www.youtube.com/watch?v=FjbEneLxB-M)
 
 
 # Personal Project
-
 ## JourneyToTheFarm
 #### [GitHub Repository](https://github.com/QuentinLadoire/JourneyToTheFarm)
-#### Trailer
+#### Video (Click on)  
 [![](https://img.youtube.com/vi/84DG06C5vnk/0.jpg)](https://www.youtube.com/watch?v=84DG06C5vnk)
 
 ## Minecraft Procedural Map
 #### [GitHub Repository](https://github.com/QuentinLadoire/MinecraftProceduralMap)
-#### Trailer
-*Click on the image*  
+#### Video (Click on)  
 [![](https://img.youtube.com/vi/ZCAR6i94rE0/0.jpg)](https://www.youtube.com/watch?v=ZCAR6i94rE0)
 
 ## CutTheRope
